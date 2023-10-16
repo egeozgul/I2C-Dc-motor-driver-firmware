@@ -1,4 +1,4 @@
-# 🌟 **Advanced Motor Control System for AVR** 🌟
+# 🌟 **Motor Control Driver for AVR with I2C Protocol** 🌟
 
 > _"Harness the power of precise motion with state-of-the-art interrupt-driven control."_
 
