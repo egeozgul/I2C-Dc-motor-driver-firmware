@@ -7,8 +7,8 @@
 - **Advanced Proportional-Integral-Derivative (PID) Logic**: Achieves the desired position and speed of the motor with utmost accuracy.
 
 <p align="center">
-    <img src="m10.webp" width="70%" height="50%">
-    <img src="m11.webp" width="70%" height="50%">
+    <img src="m10.png" width="70%" height="50%">
+    <img src="m11.png" width="70%" height="50%">
 </p>
 
 
