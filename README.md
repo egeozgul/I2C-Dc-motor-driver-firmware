@@ -1,7 +1,5 @@
 # 🌟 **Motor Control Driver for AVR with I2C Protocol** 🌟
 
-> _"Harness the power of precise motion with state-of-the-art interrupt-driven control."_
-
 ## 📌 **Key Highlights**
 
 - **Interrupt-Driven Feedback**: Dynamically monitors motor pin states to accurately detect direction and displacement.
