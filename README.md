@@ -6,6 +6,12 @@
 - **PWM (Pulse Width Modulation) Configuration**: Enables precise speed and direction control of the motor.
 - **Advanced Proportional-Integral-Derivative (PID) Logic**: Achieves the desired position and speed of the motor with utmost accuracy.
 
+<p align="center">
+    <img src="m10.webp" width="70%" height="50%">
+    <img src="m11.webp" width="70%" height="50%">
+</p>
+
+
 ## 📚 **Table of Contents**
 
 1. [Features Overview](#features-overview)
